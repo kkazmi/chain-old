@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+
+    <!-- Styles -->
+    <link href="assets/css/core.min.css" rel="stylesheet">
+    <link href="assets/css/thesaas.min.css" rel="stylesheet">
+    <link href="assets/css/style.css" rel="stylesheet">
+    <script src="https://use.fontawesome.com/4d8e140c9d.js"></script>
+    <!-- Favicons -->
+    <link rel="apple-touch-icon" href="assets/img/apple-touch-icon.png">
+    <link rel="icon" href="<?php echo $logo;?>">
+  </head>
+
+  <body>
+
+
+    <!-- Topbar -->
+    <nav class="topbar topbar-inverse topbar-expand-md topbar-sticky">
+      <div class="container">
+        <div class="row gap-y align-items-center">
+          <div class="col-12 col-lg-3">
+            <p class="text-center text-lg-left">
+              <a href="index.php"><img src="<?php echo $logo;?>" ></a>
+            </p>
+          </div>
+
+          </div>
+        </div>
+      </div>
+    </nav>
+    <!-- END Topbar -->
+
+
+
+    <!-- Header -->
+    <header class="header header-inverse" style="background-color: #33212c;">
+      <div class="container text-center">
+
+        <div class="row">
+          <div class="col-12 col-lg-8 offset-lg-2">
+
+            <h1>APIs and Programatic Control</h1>
+           
+
+          </div>
+        </div>
+
+      </div>
+    </header>
+    <!-- END Header -->
+
+
+
+
+    <!-- Main container -->
+    <main class="main-content">
+
+
+
+
+      <!--
+      |‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+      | FAQ - General
+      |‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+      !-->
+      <section class="section">
+        <div class="container">
+          <header class="section-header">
+ 
+
+          <div class="accordion" id="accordion-general">
+            <div class="card">
+              <h5 class="card-title">
+                <a data-toggle="collapse" data-parent="#accordion-general" href="#collapse-general-1">Register User?</a>
+              </h5>
+
+              <div id="collapse-general-1" class="collapse in">
+                <div class="card-block">
+                  Call API - http://104.219.251.16/wallet/apiindex.php?method=userRegistration <br><br>
+                    		INPUT PARAMETERS- {<br>
+                    "email_id":"tempclient@temop.com"<br>
+                    "user_password" : "12345678",<br>
+                    "confirm_password" : "12345678",<br>
+                    "spending_password" : "12345678",<br>
+                    "confirm_spending_password":"12345678"<br>
+                    }
+                </div>
+              </div>
+            </div>
+
+
+            <div class="card">
+              <h5 class="card-title">
+                <a data-toggle="collapse" data-parent="#accordion-general" href="#collapse-general-2">Login User?</a>
+              </h5>
+
+              <div id="collapse-general-2" class="collapse">
+                <div class="card-block">
+                  Call API - http://104.219.251.16/wallet/apiindex.php?method=Login <br><br>
+                    INPUT PARAMETERS- {<br>
+                    "email_id" : "tempclient@temop.com",<br>
+                    "password" : "1234567"<br>
+                    }
+                </div>
+              </div>
+            </div>
+
+
+            <div class="card">
+              <h5 class="card-title">
+                <a data-toggle="collapse" data-parent="#accordion-general" href="#collapse-general-3">Update Spending Password?</a>
+              </h5>
+
+              <div id="collapse-general-3" class="collapse">
+                <div class="card-block">
+                  Call API- http://104.219.251.16/wallet/apiindex.php?method=updateSpendingPassword <br><br>
+                    INPUT PARAMETERS- {<br>
+                    "email_id" : "tempclient@temop.com",<br>
+                    "spending_password" : "1234567",<br>
+                    "confirm_spending_password":"1234567"<br>
+                    }
+                </div>
+              </div>
+            </div>
+
+
+            <div class="card">
+              <h5 class="card-title">
+                <a data-toggle="collapse" data-parent="#accordion-general" href="#collapse-general-4">Generate new address?</a>
+              </h5>
+
+              <div id="collapse-general-4" class="collapse">
+                <div class="card-block">
+                  Call API - http://104.219.251.16/wallet/apiindex.php?method=getnewaddress<br><br>
+                          INPUT PARAMETERS- {<br>
+                          "email_id" : "tempclient@temop.com"<br>
+                          }
+                </div>
+              </div>
+            </div>
+
+
+            <div class="card">
+              <h5 class="card-title">
+                <a data-toggle="collapse" data-parent="#accordion-general" href="#collapse-general-5">Send GoodsCoin ?</a>
+              </h5>
+
+              <div id="collapse-general-5" class="collapse">
+                <div class="card-block">
+                  Call API - http://104.219.251.16/wallet/apiindex.php?method=sendCoin<br><br>
+                    INPUT PARAMETERS- {<br>
+                    "email_id" : "tempclient@temop.com",<br>
+                    "wallet_address" : "TDo6iTruH8pmuePFJJr1fWAfGkAN1ebbpH",<br>
+                    "trans_amount" : "5",<br>
+                    "spending_password":"1234567"<br>
+                    }
+                </div>
+              </div>
+            </div>
+
+
+	    <div class="card">
+              <h5 class="card-title">
+                <a data-toggle="collapse" data-parent="#accordion-general" href="#collapse-general-6">Track Transactions?</a>
+              </h5>
+
+              <div id="collapse-general-6" class="collapse">
+                <div class="card-block">
+                  Call API - http://104.219.251.16/wallet/apiindex.php?method=MyAllTranscationList<br><br>
+INPUT PARAMETERS- {<br>
+"email_id":"tempclient@temop.com"<br>
+}
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+
+        </div>
+      </section>
+
+    </main>
+    <!-- END Main container -->
+
+
+    <!-- Footer -->
+    <footer class="site-footer">
+      <div class="container">
+        <div class="row gap-y align-items-center">
+          <div class="col-12 col-lg-3">
+            <p class="text-center text-lg-left">
+              <a href="index.php"><img src="<?php echo $logo;?>" ></a>
+            </p>
+          </div>
+
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!-- END Footer -->
+
+
+
+    <!-- Scripts -->
+    <script src="assets/js/core.min.js"></script>
+    <script src="assets/js/thesaas.min.js"></script>
+    <script src="assets/js/script.js"></script>
+
+  </body>
+</html>

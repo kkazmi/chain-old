@@ -1,0 +1,266 @@
+.btn-success
+{
+ background-color:#8dc429;
+}
+.label12 {
+    font-size: 16px;
+    color: #0d6764;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+}
+#panel{
+    width:45%;
+}
+.signoutbtn{
+    display: inline-block!important;
+    float: right!important;
+}
+.dropdown-content > active
+{
+    left:0px!important;
+}
+
+
+
+html, body {
+    min-height: 100% !important;
+    height: auto;
+    background-color:white!important;
+}
+/*ul #dropdown3 {
+    width: 233px!important;
+}*/
+
+ul #dropdown20 {
+    width: 330.95px !important;
+    margin-top: 63px;
+}
+
+.page-title {
+    margin-left: 0%;
+}
+
+#msad {
+    width: 100%;
+    background: -webkit-radial-gradient(white, #ededed);
+    margin-top: 18%;
+    position: fixed;
+}
+
+ul li.ms-logo-set
+{
+    margin-left:-50px;
+}
+
+.lable-default{
+    display: inline;
+    padding: .2em .6em .3em;
+    font-weight: 700;
+    line-height: 1;
+    color: #919191;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25em;
+    background: #f7f7f7;
+}
+
+.navbar-custom-search input[type=search]
+{
+    width: calc(100% - 2.7rem);
+}
+
+.navbar-custom-search
+{
+    /*background:#eeeeee;*/
+    border-bottom:1px solid #9a9a9a;
+    margin-left:0;
+    margin-top: 17%;
+    border: 1px solid #9a9a9a;
+    padding: 3px;
+}
+
+.modal-close {
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    font-size: 40px;
+}
+
+#msbtcset{
+    float: right;
+    height: 20px;
+    width: 16px;
+    margin-top: 2px;
+}
+
+.navbar-custom-search i {
+    color: #000;
+    height: 55px;
+    line-height: 25px;
+    position: absolute;
+    top: 0;
+    right: -30px;
+    vertical-align: middle;
+}
+
+       .loaderpanel{
+    background: rgb(255, 255, 255);
+    position: fixed;
+    z-index: 999999;
+    width: 100%;
+    height: 100%;
+    text-align:center;
+}
+.navbar-custom-search {
+    margin-top: 0%;
+    text-align:center;
+}
+.mdlines{
+    position:relative;
+    display: block;
+    align-items: center;
+    text-align: center;
+    margin: 20px 0;
+}
+.mdlines:after{
+    width: 1px;
+    content: '';
+    position: absolute;
+    background-color: #CCCCCC;
+}
+.mdlines:before{
+    width: 1px;
+    content: '';
+    position: absolute;
+    background-color: #CCCCCC;
+}
+.mdlines:after{
+    top: 50%;
+    width: 40%;
+    height: 1px;
+    left: initial;
+    right: initial;
+    right:0;
+}
+.mdlines:before{
+    top: 50%;
+    width: 40%;
+    height: 1px;
+    left: initial;
+    right: initial;
+    left:0;
+}
+  @media only screen and (min-width:320px) and (max-width:480px) {
+    #panel{
+        width:100%;
+    }
+    .label12{
+    font-size: 12px;
+    }
+    #msbtcset {
+        float: right;
+        height: 15px;
+        width: 13px;
+        margin-top: 2px;
+    }
+}
+  @media only screen and (min-width:481px) and (max-width:1023px) {
+    #panel{
+        width:80%;
+    }
+    .mobsc{
+        display:none;
+    }
+        #2stepmodal{
+        width:95%!important;
+    }
+}
+  @media only screen and (min-width:1024px) and (max-width:1800px) {
+    #panel{
+        width:500px;
+    }
+
+}
+@media only screen and (max-width: 768px){
+        #panelsend{
+        width:95%!important;
+    }
+.navbar-custom-search {
+    margin-top: 0%;
+}
+    .mobsc{
+        display:none;
+    }
+#keyboard{
+    display:none;
+}
+}
+
+    @media only screen and (max-width: 767px){
+        ul #dropdown3 {
+            width: 100% !important;
+            left: 0px!important;
+        }
+    }
+
+        .mohit{position: absolute; top: -12px;left: 70px;/*font-family: Ubuntu,sans-serif;*/ font-size: 34px; font-style: italic;font-weight: 600;overflow: hidden;color: #ffffff!important;padding: 5px;}
+        #line2, #line1
+        {
+            margin-bottom:0!important;
+        }
+        .pdngnone
+        {
+            margin-top:0!important;
+        }
+
+
+    input:not([type]):focus:not([readonly]), input[type=text]:focus:not([readonly]), input[type=password]:focus:not([readonly]), input[type=email]:focus:not([readonly]), input[type=url]:focus:not([readonly]), input[type=time]:focus:not([readonly]), input[type=date]:focus:not([readonly]), input[type=datetime]:focus:not([readonly]), input[type=datetime-local]:focus:not([readonly]), input[type=tel]:focus:not([readonly]), input[type=number]:focus:not([readonly]), input[type=search]:focus:not([readonly]), textarea.materialize-textarea:focus:not([readonly]) {
+        box-shadow: 0 1px 0 0 #9e9e9e!important;
+        border-bottom:1px solid #9e9e9e;
+        outline:none;
+    }
+    input:not([type]).invalid, input:not([type]):focus.invalid, input[type=text].invalid, input[type=text]:focus.invalid, input[type=password].invalid, input[type=password]:focus.invalid, input[type=email].invalid, input[type=email]:focus.invalid, input[type=url].invalid, input[type=url]:focus.invalid, input[type=time].invalid, input[type=time]:focus.invalid, input[type=date].invalid, input[type=date]:focus.invalid, input[type=datetime].invalid, input[type=datetime]:focus.invalid, input[type=datetime-local].invalid, input[type=datetime-local]:focus.invalid, input[type=tel].invalid, input[type=tel]:focus.invalid, input[type=number].invalid, input[type=number]:focus.invalid, input[type=search].invalid, input[type=search]:focus.invalid, textarea.materialize-textarea.invalid, textarea.materialize-textarea:focus.invalid {
+        box-shadow: 0 1px 0 0 #9e9e9e!important;
+        border-bottom:1px solid #9e9e9e;
+        outline:none;
+
+    }
+
+
+    #panel2ndpswd {
+    width: 66%;
+}
+#sidenav-overlay{
+    display:none;
+}
+.signoutbtn{
+    color:white!important;background: rgb(134, 180, 90)!important;line-height: 10px!important;
+}
+.userval{
+    font-family:'Open Sans', sans-serif;
+    color: #0f9692;
+    font-weight: bold;
+    padding-left:10px;
+    display: block;
+    font-size: 16px;
+}
+.userval1{
+    color: #fff;
+    padding: 5px;
+    width: 50px!important;
+    float: left;
+    margin-bottom: 10px;
+}
+.userval1 img{
+        border: 1px solid #0f9692;
+    border-radius: 100%;
+}
+.userval2{
+    font-family:'Open Sans', sans-serif;
+    color: #0f9692;
+    padding-left:10px;
+    display:block;
+    word-break:break-word;
+}
+  

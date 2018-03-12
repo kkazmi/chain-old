@@ -1,0 +1,235 @@
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Ubuntu'), url(https://fonts.gstatic.com/s/ubuntu/v9/ODszJI8YqNw8V2xPulzjO_esZW2xOQ-xsNqO47m55DA.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+20B4, U+2DE0-2DFF, U+A640-A69F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Ubuntu'), url(https://fonts.gstatic.com/s/ubuntu/v9/iQ9VJx1UMASKNiGywyyCXvesZW2xOQ-xsNqO47m55DA.woff2) format('woff2');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Ubuntu'), url(https://fonts.gstatic.com/s/ubuntu/v9/WkvQmvwsfw_KKeau9SlQ2_esZW2xOQ-xsNqO47m55DA.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Ubuntu'), url(https://fonts.gstatic.com/s/ubuntu/v9/gYAtqXUikkQjyJA1SnpDLvesZW2xOQ-xsNqO47m55DA.woff2) format('woff2');
+  unicode-range: U+0370-03FF;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Ubuntu'), url(https://fonts.gstatic.com/s/ubuntu/v9/Wu5Iuha-XnKDBvqRwQzAG_esZW2xOQ-xsNqO47m55DA.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Ubuntu'), url(https://fonts.gstatic.com/s/ubuntu/v9/sDGTilo5QRsfWu6Yc11AXg.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+
+        .navbar-default .navbar-collapse, .navbar-default .navbar-form {
+            border-color: #e6e6e6;
+        }
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #ffffff!important;
+}
+.navbar-default .navbar-toggle {
+    border-color: #ffffff!important;
+    background-color: transparent!important;
+}
+        .val1 {
+            margin-left: 21px;
+        }
+        /*.Lockerblue {
+                    background-color: #0f9692;
+                    color: #fff;
+                }
+
+                    .Lockerblue:focus, .Lockerblue:hover {
+                        background-color: #0f9692;
+                        color: #fff;
+                    }*/
+        .Lockerblue {
+            /*background-color: #0f9692;*/
+            background-color: #0f9692;
+            color: #fff;
+        }
+
+        .Lockerblue:focus, .Lockerblue:hover {
+            background-color: #0a6966;
+            color: #fff;
+        }
+
+        .navbar-default {
+            background: #0f9692;
+            border: none;
+        }
+
+        .sticky {
+            position: fixed;
+            z-index: 9999;
+            width: 100%;
+            top: 60px;
+        }
+
+        .insight {
+            font-family: Ubuntu,sans-serif;
+            font-size: 34px;
+            font-style: italic;
+            font-weight: 700;
+            overflow: hidden;
+            color: #ffffff !important;
+        }
+
+        /*.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > .active > a:hover {
+                    background-color: #fff;
+                    color: #0f9692;
+                }*/
+
+        .navbar-default .navbar-nav > li > a:hover {
+            color: #0f9692;
+            background-color: transparent;
+        }
+
+        .navbar-default .navbar-nav > li > a:focus {
+            color: #fff;
+            background-color: transparent;
+        }
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > .active > a:hover {
+    background-color: #0f9692;
+    color: #ffffff;
+}
+        /*.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > .active > a:hover {
+                    background-color: #fff;
+                    color: #0f9692;
+                }*/
+
+.navbar {
+    -webkit-box-shadow: 0px 1px 1px 0px rgba(0, 0, 0, 0.31);
+    -moz-box-shadow: 0px 1px 1px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 1px 1px 0px rgba(0, 0, 0, 0.31);
+    font-family: Ubuntu,sans-serif;
+}
+
+        .nav li a {
+            font-size: 15px;
+        }
+
+        .footerp {
+            font-size: 12px;
+            color: #fff;
+        }
+
+        .social {
+            text-align: center;
+            /*padding: 10px 10px;*/
+            padding-bottom: 5px;
+        }
+
+        .footerline {
+            text-align: center;
+        }
+
+        .social-link {
+            margin-top: 10px;
+            margin-bottom: 10px;
+            padding-left: 0px;
+        }
+
+        .footer {
+            padding: 10px 0px;
+        }
+
+        .social-link li {
+            display: inline-block;
+            background: #ffffff;
+            border-radius: 30px;
+            margin-right: 3px;
+        }
+
+        .social p {
+            text-align: center;
+            margin: 0px;
+        }
+
+        .social-link li a i {
+            display: block;
+            width: 25px;
+            height: 25px;
+            line-height: 26px;
+            text-align: center;
+            border-radius: 50%;
+        }
+
+        .social-link li a i {
+            color: #0f9692;
+            background: #fff;
+            font-size: 12px;
+            text-decoration: none!important;
+        }
+
+            .social-link li a i:hover {
+                text-decoration: none;
+            }
+
+        .social-link.dark li a i {
+            color: #ffffff;
+            background: #0f9692;
+        }
+
+            .social-link.dark li a i:hover {
+                color: #ffffff;
+                background: #0f9692;
+            }
+            .MyMainDiv{
+                height:auto 100%;
+				display:table;
+				width:100%;
+            }
+       
+
+        /*html, body {
+                    font-family: Ubuntu,sans-serif;
+                    background: rgba(81,154,196,1);
+                    background: -moz-radial-gradient(center, ellipse cover, rgba(81,154,196,1) 0%, rgba(81,154,196,1) 6%, rgba(32,77,106,1) 66%, rgba(32,77,106,1) 100%);
+                    background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, rgba(81,154,196,1)), color-stop(6%, rgba(81,154,196,1)), color-stop(66%, rgba(32,77,106,1)), color-stop(100%, rgba(32,77,106,1)));
+                    background: -webkit-radial-gradient(center, ellipse cover, rgba(81,154,196,1) 0%, rgba(81,154,196,1) 6%, rgba(32,77,106,1) 66%, rgba(32,77,106,1) 100%);
+                    background: -o-radial-gradient(center, ellipse cover, rgba(81,154,196,1) 0%, rgba(81,154,196,1) 6%, rgba(32,77,106,1) 66%, rgba(32,77,106,1) 100%);
+                    background: -ms-radial-gradient(center, ellipse cover, rgba(81,154,196,1) 0%, rgba(81,154,196,1) 6%, rgba(32,77,106,1) 66%, rgba(32,77,106,1) 100%);
+                    background: radial-gradient(ellipse at center, rgba(81,154,196,1) 0%, rgba(81,154,196,1) 6%, rgba(32,77,106,1) 66%, rgba(32,77,106,1) 100%);
+                    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#519ac4', endColorstr='#0f9692', GradientType=1 );
+                }*/
+
+        /*@media (min-width: 1460px){
+        .container {
+            width: 1440px!important;
+        }
+                }*/
+        @media (min-width: 768px) {
+
+            .navbar-nav > li > a {
+                padding-top: 20px;
+                padding-bottom: 20px;
+            }
+        }

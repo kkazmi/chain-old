@@ -1,0 +1,719 @@
+
+#intro.index {
+    background: url('slide1.jpg') center center no-repeat ;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 100%;
+    max-height: 890px;
+    padding: 0;
+    box-sizing: border-box;
+}
+.section-title {
+    font-size: 46px;
+    font-weight: 300;
+    margin: 0 0 50px 0;
+    position: relative;
+    padding-bottom: 12px;
+}
+.content h1 {
+    font: 50px "Helvetica";
+    font-weight: bold;
+    padding: 0;
+    line-height: 1.2;
+    text-transform: uppercase;
+    color: #FFF;
+    background: #d81a19;
+    padding: 10px 15px;
+}
+.content p {
+    font-size: 18px;
+    line-height: 1.6;
+    max-width: 500px;
+    color: #FFF;
+    background: #191919;
+    padding: 10px 15px;
+}
+#wallet_header .content p {
+    font: 18px "opensans";
+    line-height: 1.6;
+    max-width: 500px;
+}
+.cta-button.red, .cta-button-none.red {
+    line-height: 46px;
+    background: #ff3b30;
+    border: 3px solid #ff3b30;
+    color: white;
+}
+.default-p {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.img-container.center {
+    text-align: center;
+}
+#operacoin-exchange .sprite-icon.icon-1 {
+    background-position: 0 -45px;
+}
+#operacoin-exchange .sprite-icon.icon-2 {
+    background-position: -43px -45px;
+}
+#operacoin-exchange .sprite-icon.icon-3 {
+    background-position: -85px -45px;
+}
+#secondary-nav ul li a .icon.icon-1 {
+    background-position: 0 0;
+}
+#secondary-nav ul li a .icon.icon-2 {
+    background-position: -66px 0;
+}
+#secondary-nav ul li a .icon.icon-3 {
+    background-position: -132px 0;
+}
+#secondary-nav ul li a .icon.icon-4 {
+    background-position: -198px 0;
+}
+#secondary-nav ul li a .icon {
+    display: inline-block;
+    vertical-align: middle;
+    height: 44px;
+    width: 66px;
+    background-size: auto 116px;
+    background-repeat: no-repeat;
+    background-image: url('assets/spectrocoin-sprites.png');
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+    -moz-filter: grayscale(100%);
+    -ms-filter: grayscale(100%);
+    -o-filter: grayscale(100%);
+    transition: all .3s ease;
+}
+#secondary-nav ul li a .title {
+    display: inline-block;
+    vertical-align: middle;
+    font-weight: 300;
+    line-height: 1.1em;
+    margin: 0 20px;
+}
+#secondary-nav ul li a {
+    display: block;
+    padding: 33px 0;
+    color: #898b90;
+    transition: all .3s ease;
+    text-decoration: none;
+    font-size: 18px;
+}
+#secondary-nav ul li a:hover .icon {
+    filter: grayscale(0);
+    -webkit-filter: grayscale(0);
+    -moz-filter: grayscale(0);
+    -ms-filter: grayscale(0);
+    -o-filter: grayscale(0);
+}
+#secondary-nav ul li a .title span {
+    font-weight: 800;
+    text-transform: uppercase;
+    display: block;
+}
+#secondary-nav ul li a:hover {
+    color: #d81a19;
+    text-decoration: none;
+}
+.sprite-icon {
+    height: 40px;
+    width: 40px;
+    background-size: auto 116px;
+    background-repeat: no-repeat;
+    background-image: url('assets/spectrocoin-sprites.png');
+}
+.section-title:after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 4px;
+    height: 2px;
+    width: 150px;
+    background: #d81a19;
+}
+#secondary-nav {
+    background: #f5f5f5;
+    width: 100%;
+}
+#secondary-nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+#secondary-nav ul li a {
+    display: block;
+    padding: 33px 0;
+    color: #898b90;
+    transition: all .3s ease;
+    text-decoration: none;
+    font-size: 18px;
+}
+.content {
+    padding: 200px 0;
+    overflow: hidden;
+    position: relative;
+}
+.inner {
+    position: relative;
+    top: 50%;
+}
+.keypoints-list li .keypoint-title {
+    padding-left: 0;
+}
+.keypoints-list li .keypoint-title p {
+    margin: 5px 0 0 0;
+    font-size: 22px;
+    font-weight: 300;
+    line-height: 1.25em;
+}
+
+body .wow, body a, body button, body h1, body h2, body h3, body h4, body h5, body h6, body li, body p, body ul {
+    font-family: 'Open Sans',sans-serif;
+}
+.keypoints-list {
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 60px;
+}
+.keypoints-list li {
+    margin-bottom: 25px;
+}
+.img-container img {
+    display: inline-block;
+    max-width: 100%;
+}
+
+        #intro {
+            /*height: 470px;*/
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            margin-top: 60px;
+            background-color: #fefeff;
+            position: relative;
+        }
+.buttons-row .btn {
+    width: 100%;
+}
+
+.btn.big-font {
+    font-size: 20px;
+    padding: 8px 20px;
+}
+
+.btn.btn-primary {
+    background: #d81a19;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: #fff;
+    border: 1px solid #d81a19;
+}
+.btn.btn-primary:hover {
+    background: #d81a19;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: #fff;
+        border: 1px solid #0a6966;
+}
+.btn {
+    font-weight: 800;
+    font-size: 16px;
+    text-transform: uppercase;
+    color: #fff;
+    background: #275877;
+    display: inline-block;
+    padding: 12px 30px;
+    border-radius: 0;
+    transition: all .3s ease;
+    border: none;
+    text-align: center;
+}
+.btn.btn-alternative.big-font {
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+.colapse-content .fw-cct {
+text-transform: uppercase;
+    color: #266f9e;
+    border: 2px solid #266f9e;
+    font-size: 20px;
+    background: #fff;
+    padding: 8px 30px;
+    cursor: pointer;
+    transition: all .3s ease;
+}
+.colapse-content .fw-cc.active {
+    max-height: 3000px;
+    transition: all 1s ease;
+}
+
+.colapse-content .fw-cc {
+    max-height: 0;
+    transition: all .5s ease;
+    margin-top: 20px;
+}
+.colapse-content .fw-cc .fw-cc-container {
+    background: #fff;
+    padding: 15px 30px;
+}
+#operacoin-mobile-wallet{
+    /*background:#d81a19;*/
+    background:#2f2f2f;
+}
+#intro .intro-cta h1 {
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 800;
+    font-size: 46px;
+    margin-top: 75px;
+    font-size: 42px;
+}
+#intro .intro-cta .cta-container h2 {
+    font-size: 36px;
+    font-weight: 300;
+    color: #d81a19;
+    margin: 0 0 22px;
+}
+.cta-form input[type=email] {
+    font-weight: 300;
+    background: #f8f8f8;
+    border: none;
+    padding: 0 20px;
+    height: 50px;
+    width: 360px;
+}
+
+.cta-form .btn {
+    height: 50px;
+     background-color: #191919!important;
+}
+.cta-form .btn:hover {
+    height: 50px;
+background-color: #d81a19;
+    color: white;
+}
+.btn.signup {
+    padding: 0;
+    background-color: #f8b032;
+}
+#intro .intro-cta .cta-container {
+    background: #fff;
+    overflow: hidden;
+    padding: 20px 30px;
+}
+#intro .operacoin-price {
+padding: 20px 50px;
+    margin-top: 45px;
+    background: #f8b032;
+    position: relative;
+}
+.buttons-row {
+    margin-top: 20px;
+}
+.toppoints{
+    padding:50px 0px;
+}
+.toppoints h3{
+    font-weight:bold;
+}
+.header2{
+        text-align: center;
+    padding: 0px 0px 50px 0px;
+}
+#operacoin-accept-business .sprite-icon.icon-1 {
+    background-position: -337px -45px;
+}
+#operacoin-accept-business .sprite-icon.icon-2 {
+    background-position: -379px -45px;
+}
+#operacoin-accept-business .sprite-icon.icon-3 {
+    background-position: -295px -45px;
+}
+#operacoin-debit-card .sprite-icon.icon-1 {
+    background-position: -127px -45px;
+}
+#operacoin-debit-card .sprite-icon.icon-2 {
+    background-position: -169px -45px;
+}
+#operacoin-debit-card .sprite-icon.icon-3 {
+    background-position: -211px -45px;
+}
+#operacoin-mobile-wallet .sprite-icon.icon-1 {
+    background-position: -253px -45px;
+}
+#operacoin-mobile-wallet .sprite-icon.icon-2 {
+    background-position: -295px -45px;
+}
+#cta {
+    padding: 50px 0;
+}
+#cta {
+    background: #d81a19;
+    padding: 60px 0;
+}
+#cta h3 {
+    font-size: 40px;
+    font-weight: 300;
+    margin: 0;
+    color: #fff;
+    line-height: 50px;
+}
+.apple{
+    max-width:400px!important;
+
+}
+
+@media screen and (max-width: 767px) and (min-width: 280px) {
+    #secondary-nav{
+        display:none;
+    }
+    /*#intro.index {
+    background-image: none;
+    background-size: contain;
+}*/
+
+    #intro {
+    height: auto;
+
+}
+    .element{
+        font-size:25px;
+    }
+    .newheading{
+        font-size:25px;
+    }
+    .apple{
+        width:100%!important;
+    }
+}
+.navbar-header {
+    overflow: hidden;
+}
+.navbar-default .navbar-collapse,
+.navbar-default .navbar-form {
+    border-color: #e6e6e6;
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #ffffff!important;
+}
+.navbar-default .navbar-toggle {
+    border-color: #ffffff!important;
+    background-color: transparent!important;
+}
+.val1 {
+    margin-left: 21px;
+}
+.Lockerblue {
+    /*background-color: #d81a19;*/
+    
+    background-color: #d81a19;
+    color: #fff;
+}
+.Lockerblue:focus,
+.Lockerblue:hover {
+    background-color: #d81a19;
+    color: #fff;
+}
+.navbar-default {
+    background: #d81a19;
+    border: none;
+}
+.sticky {
+    position: fixed;
+    z-index: 9999;
+    width: 100%;
+    top: 60px;
+}
+.insight {
+    font-family: Ubuntu, sans-serif;
+    font-size: 34px;
+    font-style: italic;
+    font-weight: 700;
+    overflow: hidden;
+    color: #ffffff !important;
+}
+.navbar-default .navbar-nav > li > a:hover {
+    color: #d81a19;
+    background-color: transparent;
+}
+.navbar-default .navbar-nav > li > a:focus {
+    color: #fff;
+    background-color: transparent;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > .active > a:hover {
+    background-color: #d81a19;
+    color: #ffffff;
+}
+.navbar {
+    -webkit-box-shadow: 0px 1px 1px 0px rgba(0, 0, 0, 0.31);
+    -moz-box-shadow: 0px 1px 1px 0px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 1px 1px 0px rgba(0, 0, 0, 0.31);
+    font-family: Ubuntu, sans-serif;
+}
+.nav li a {
+    font-size: 15px;
+}
+.footerp {
+    font-size: 12px;
+    color: #fff;
+}
+.social {
+    text-align: center;
+    /*padding: 10px 10px;*/
+    
+    padding-bottom: 5px;
+}
+.footerline {
+    text-align: center;
+}
+.social-link {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-left: 0px;
+}
+.footer {
+    padding: 10px 0px;
+}
+.social-link li {
+    display: inline-block;
+    background: #ffffff;
+    border-radius: 30px;
+    margin-right: 3px;
+}
+.social p {
+    text-align: center;
+    margin: 0px;
+}
+.social-link li a i {
+    display: block;
+    width: 25px;
+    height: 25px;
+    line-height: 26px;
+    text-align: center;
+    border-radius: 50%;
+}
+.social-link li a i {
+    color: #d81a19;
+    background: #fff;
+    font-size: 12px;
+    text-decoration: none!important;
+}
+.social-link li a i:hover {
+    text-decoration: none;
+}
+.social-link.dark li a i {
+    color: #ffffff;
+    background: #d81a19;
+}
+.social-link.dark li a i:hover {
+    color: #ffffff;
+    background: #d81a19;
+}
+.MyMainDiv {
+    height: 100%;
+    display: table;
+    width: 100%;
+}
+@media (min-width: 768px) {
+    .navbar-nav > li > a {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+}
+.element {
+    display: inline-block !important;
+}
+.typed-cursor {
+    opacity: 1;
+    -webkit-animation: blink 0.7s infinite;
+    -moz-animation: blink 0.7s infinite;
+    animation: blink 0.7s infinite;
+}
+@keyframes blink {
+    0% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+@-webkit-keyframes blink {
+    0% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+@-moz-keyframes blink {
+    0% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+.btn {
+    font-weight: 800;
+    font-size: 16px;
+    text-transform: uppercase;
+    color: #fff;
+    background-color: #4CAF50;
+    display: inline-block;
+    padding: 12px 30px;
+    border-radius: 0;
+    transition: all .3s ease;
+    border: none;
+    text-align: center;
+}
+.comingsoontext {
+    font-size: 80px;
+    text-align: center;
+    margin-top: 27%;
+    color: #fff;
+    font-weight: bold;
+}
+.MyMainDiv {
+    height: 100%;
+    display: inherit;
+    width: 100%;
+}
+.typeing_text {
+    margin-top: 120px;
+}
+.video_chat_intro {
+    margin-top: 50px;
+}
+.video_chat_intro h1 {
+    font-family: 'Open Sans', sans-serif !important;
+    line-height: 50px;
+    color: #2f2f2f;
+    font-size: 40px;
+    letter-spacing: 1px;
+}
+.points li {
+    letter-spacing: 1px;
+    background: url(../../assets/tick.png) no-repeat;
+    padding-bottom: 10px;
+    padding-left: 36px;
+    margin-bottom: 12px;
+    font-family: 'Open Sans', sans-serif !important;
+    font-size: 17px;
+    color: #676767;
+}
+.points {
+    padding: 0;
+    margin: 20px 0 0;
+}
+.brands ul,
+.points {
+    list-style-type: none;
+}
+.header_register input[type=email],
+.header_register input[type=text] {
+    border: 1px solid #c7c7c7;
+    border-radius: 3px;
+    outline: 0;
+    padding: 14px;
+    width: 250px;
+    margin-bottom: 10px;
+}
+.header_register input[type=submit] {
+    background: #d81a19;
+    outline: 0;
+    border: 0;
+    color: #fff;
+    border-radius: 3px;
+    padding: 12px 35px;
+    margin-left: 3px;
+    cursor: pointer;
+    font-size: 17px;
+}
+.mybtn {
+    background: #d81a19;
+    outline: 0;
+    border: 0;
+    color: #fff;
+    border-radius: 3px;
+    padding: 15px 35px;
+    margin-left: 3px;
+    cursor: pointer;
+    font-size: 17px;
+}
+div.map > a.a {
+    top: 40%;
+    left: 40%;
+    width: 27%;
+    height: 25%;
+}
+div.map > a {
+    display: block;
+    position: absolute;
+}
+.pricing_header {
+    background: #d81a19;
+    color: #fff;
+    padding: 5px 10px;
+    text-align: center;
+    border: 1px solid #d81a19;
+}
+.pricing_header h2 {
+    margin-top: 10px;
+}
+.pricing_header a {
+    color: #fff;
+    font-size: 18px;
+    font-weight: 100;
+}
+.pricing_list {
+    list-style: none;
+    padding: 0px;
+    text-align: center;
+    font-size: 18px;
+    width: 100%;
+}
+.pricing_list td {
+    border-top: 1px solid #d81a19;
+    padding: 15px 10px;
+    vertical-align: middle !important;
+}
+.pricing_list td p {
+    margin: 0px;
+    word-break: break-all;
+}
+.pricing_list:last-child {
+    border-bottom: none;
+}
+.pricing_table {
+    border: 1px solid #d81a19;
+    margin-bottom: 20px;
+}
+@media screen and (max-width: 520px) and (min-width: 280px) {
+    #topemailid {
+        width: 100%;
+    }
+    #topsignup {
+        text-align: center;
+        width: 100%!important;
+        display: block;
+        margin-left: 0px;
+    }
+    .mybtn {
+        text-align: center;
+    }
+}
+        

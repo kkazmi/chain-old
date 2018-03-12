@@ -1,0 +1,238 @@
+[03-Nov-2017 12:25:06 America/New_York] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/zlghquwe/public_html/wallet/signup.php on line 54
+[03-Nov-2017 12:25:06 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/zlghquwe/public_html/wallet/signup.php on line 59
+[03-Nov-2017 12:25:06 America/New_York] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/zlghquwe/public_html/wallet/signup.php on line 60
+[03-Nov-2017 12:26:00 America/New_York] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/zlghquwe/public_html/wallet/signup.php on line 54
+[03-Nov-2017 12:26:00 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/zlghquwe/public_html/wallet/signup.php on line 59
+[03-Nov-2017 12:26:00 America/New_York] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/zlghquwe/public_html/wallet/signup.php on line 60
+[03-Nov-2017 12:26:49 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/zlghquwe/public_html/wallet/login.php on line 45
+[03-Nov-2017 12:27:03 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/zlghquwe/public_html/wallet/login.php on line 45
+[03-Nov-2017 12:27:14 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/zlghquwe/public_html/wallet/login.php on line 45
+[03-Nov-2017 12:34:15 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/zlghquwe/public_html/wallet/login.php on line 45
+[03-Nov-2017 12:35:24 America/New_York] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/zlghquwe/public_html/wallet/signup.php on line 54
+[03-Nov-2017 12:35:24 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/zlghquwe/public_html/wallet/signup.php on line 59
+[03-Nov-2017 12:35:24 America/New_York] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/zlghquwe/public_html/wallet/signup.php on line 60
+[03-Nov-2017 13:28:46 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/zlghquwe/public_html/wallet/login.php on line 45
+[03-Nov-2017 13:28:58 America/New_York] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/zlghquwe/public_html/wallet/forget.php on line 24
+[03-Nov-2017 13:28:58 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/zlghquwe/public_html/wallet/forget.php on line 29
+[03-Nov-2017 13:28:58 America/New_York] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/zlghquwe/public_html/wallet/forget.php on line 30
+[03-Nov-2017 14:03:23 America/New_York] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/zlghquwe/public_html/wallet/forget.php on line 24
+[03-Nov-2017 14:03:23 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/zlghquwe/public_html/wallet/forget.php on line 29
+[03-Nov-2017 14:03:23 America/New_York] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/zlghquwe/public_html/wallet/forget.php on line 30
+[03-Nov-2017 16:33:29 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/zlghquwe/public_html/wallet/login.php on line 45
+[03-Nov-2017 16:33:43 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/zlghquwe/public_html/wallet/login.php on line 45
+[03-Nov-2017 16:38:45 America/New_York] PHP Warning:  fopen(http://...@127.0.0.1:8626/): failed to open stream: Connection refused in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 116
+[03-Nov-2017 16:38:45 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 143
+[03-Nov-2017 16:38:45 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 148
+[03-Nov-2017 16:38:45 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 154
+[03-Nov-2017 16:38:45 America/New_York] PHP Warning:  fopen(http://...@127.0.0.1:8626/): failed to open stream: Connection refused in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 116
+[03-Nov-2017 16:38:45 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 143
+[03-Nov-2017 16:38:45 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 148
+[03-Nov-2017 16:38:45 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 154
+[03-Nov-2017 16:38:45 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/zlghquwe/public_html/wallet/common.php on line 243
+[03-Nov-2017 16:38:45 America/New_York] PHP Notice:  Undefined index: user_session in /home/zlghquwe/public_html/wallet/myaddress.php on line 8
+[03-Nov-2017 16:38:45 America/New_York] PHP Warning:  fopen(http://...@127.0.0.1:8626/): failed to open stream: Connection refused in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 116
+[03-Nov-2017 16:38:45 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 143
+[03-Nov-2017 16:38:45 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 148
+[03-Nov-2017 16:38:45 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 154
+[03-Nov-2017 16:38:45 America/New_York] PHP Warning:  fopen(http://...@127.0.0.1:8626/): failed to open stream: Connection refused in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 116
+[03-Nov-2017 16:38:45 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 143
+[03-Nov-2017 16:38:45 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 148
+[03-Nov-2017 16:38:45 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 154
+[03-Nov-2017 16:38:45 America/New_York] PHP Notice:  Undefined index: user_admin in /home/zlghquwe/public_html/wallet/myaddress.php on line 156
+[03-Nov-2017 16:38:45 America/New_York] PHP Notice:  Undefined index: user_admin in /home/zlghquwe/public_html/wallet/myaddress.php on line 193
+[04-Nov-2017 03:43:16 America/New_York] PHP Warning:  fopen(http://...@127.0.0.1:8626/): failed to open stream: Connection refused in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 116
+[04-Nov-2017 03:43:16 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 143
+[04-Nov-2017 03:43:16 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 148
+[04-Nov-2017 03:43:16 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 154
+[04-Nov-2017 03:43:16 America/New_York] PHP Warning:  fopen(http://...@127.0.0.1:8626/): failed to open stream: Connection refused in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 116
+[04-Nov-2017 03:43:16 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 143
+[04-Nov-2017 03:43:16 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 148
+[04-Nov-2017 03:43:16 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 154
+[04-Nov-2017 03:50:12 America/New_York] PHP Warning:  fopen(http://...@127.0.0.1:8626/): failed to open stream: Connection refused in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 116
+[04-Nov-2017 03:50:12 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 143
+[04-Nov-2017 03:50:12 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 148
+[04-Nov-2017 03:50:12 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 154
+[04-Nov-2017 03:50:12 America/New_York] PHP Warning:  fopen(http://...@127.0.0.1:8626/): failed to open stream: Connection refused in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 116
+[04-Nov-2017 03:50:12 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 143
+[04-Nov-2017 03:50:12 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 148
+[04-Nov-2017 03:50:12 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 154
+[04-Nov-2017 03:57:29 America/New_York] PHP Warning:  fopen(http://...@104.219.251.16:8626/): failed to open stream: Connection refused in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 116
+[04-Nov-2017 03:57:29 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 143
+[04-Nov-2017 03:57:29 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 148
+[04-Nov-2017 03:57:29 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 154
+[04-Nov-2017 03:57:30 America/New_York] PHP Warning:  fopen(http://...@104.219.251.16:8626/): failed to open stream: Connection refused in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 116
+[04-Nov-2017 03:57:30 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 143
+[04-Nov-2017 03:57:30 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 148
+[04-Nov-2017 03:57:30 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 154
+[04-Nov-2017 07:10:10 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/zlghquwe/public_html/wallet/common.php on line 243
+[04-Nov-2017 07:10:10 America/New_York] PHP Notice:  Undefined index: user_session in /home/zlghquwe/public_html/wallet/myaddress.php on line 8
+[04-Nov-2017 07:10:11 America/New_York] PHP Warning:  fopen(http://...@104.219.251.16:8626/): failed to open stream: Connection refused in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 116
+[04-Nov-2017 07:10:11 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 143
+[04-Nov-2017 07:10:11 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 148
+[04-Nov-2017 07:10:11 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 154
+[04-Nov-2017 07:10:12 America/New_York] PHP Warning:  fopen(http://...@104.219.251.16:8626/): failed to open stream: Connection refused in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 116
+[04-Nov-2017 07:10:12 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 143
+[04-Nov-2017 07:10:12 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 148
+[04-Nov-2017 07:10:12 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 154
+[04-Nov-2017 07:10:12 America/New_York] PHP Notice:  Undefined index: user_admin in /home/zlghquwe/public_html/wallet/myaddress.php on line 156
+[04-Nov-2017 07:10:12 America/New_York] PHP Notice:  Undefined index: user_admin in /home/zlghquwe/public_html/wallet/myaddress.php on line 193
+[06-Nov-2017 00:53:35 America/New_York] PHP Warning:  fopen(http://...@104.219.251.16:8626/): failed to open stream: Connection refused in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 116
+[06-Nov-2017 00:53:35 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 143
+[06-Nov-2017 00:53:35 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 148
+[06-Nov-2017 00:53:35 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 154
+[06-Nov-2017 00:53:36 America/New_York] PHP Warning:  fopen(http://...@104.219.251.16:8626/): failed to open stream: Connection refused in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 116
+[06-Nov-2017 00:53:36 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 143
+[06-Nov-2017 00:53:36 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 148
+[06-Nov-2017 00:53:36 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 154
+[06-Nov-2017 00:55:15 America/New_York] PHP Warning:  fopen(http://...@104.219.251.16:8626/): failed to open stream: Connection refused in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 116
+[06-Nov-2017 00:55:15 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 143
+[06-Nov-2017 00:55:15 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 148
+[06-Nov-2017 00:55:15 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 154
+[06-Nov-2017 00:55:16 America/New_York] PHP Warning:  fopen(http://...@104.219.251.16:8626/): failed to open stream: Connection refused in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 116
+[06-Nov-2017 00:55:16 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 143
+[06-Nov-2017 00:55:16 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 148
+[06-Nov-2017 00:55:16 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 154
+[06-Nov-2017 00:59:11 America/New_York] PHP Warning:  fopen(http://...@104.219.251.16:8626/): failed to open stream: Connection refused in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 116
+[06-Nov-2017 00:59:11 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 143
+[06-Nov-2017 00:59:11 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 148
+[06-Nov-2017 00:59:11 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 154
+[06-Nov-2017 00:59:12 America/New_York] PHP Warning:  fopen(http://...@104.219.251.16:8626/): failed to open stream: Connection refused in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 116
+[06-Nov-2017 00:59:12 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 143
+[06-Nov-2017 00:59:12 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 148
+[06-Nov-2017 00:59:12 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 154
+[06-Nov-2017 01:02:49 America/New_York] PHP Warning:  fopen(http://...@104.219.251.16:8626/): failed to open stream: Connection refused in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 116
+[06-Nov-2017 01:02:49 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 143
+[06-Nov-2017 01:02:49 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 148
+[06-Nov-2017 01:02:49 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 154
+[06-Nov-2017 01:02:50 America/New_York] PHP Warning:  fopen(http://...@104.219.251.16:8626/): failed to open stream: Connection refused in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 116
+[06-Nov-2017 01:02:50 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 143
+[06-Nov-2017 01:02:50 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 148
+[06-Nov-2017 01:02:50 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 154
+[06-Nov-2017 01:52:01 America/New_York] PHP Warning:  fopen(http://...@104.219.251.16:8626/): failed to open stream: Connection refused in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 116
+[06-Nov-2017 01:52:01 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 143
+[06-Nov-2017 01:52:01 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 148
+[06-Nov-2017 01:52:01 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 154
+[06-Nov-2017 01:52:02 America/New_York] PHP Warning:  fopen(http://...@104.219.251.16:8626/): failed to open stream: Connection refused in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 116
+[06-Nov-2017 01:52:02 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 143
+[06-Nov-2017 01:52:02 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 148
+[06-Nov-2017 01:52:02 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 154
+[06-Nov-2017 01:52:08 America/New_York] PHP Warning:  fopen(http://...@104.219.251.16:8626/): failed to open stream: Connection refused in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 116
+[06-Nov-2017 01:52:08 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 143
+[06-Nov-2017 01:52:08 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 148
+[06-Nov-2017 01:52:08 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 154
+[06-Nov-2017 01:52:12 America/New_York] PHP Warning:  fopen(http://...@104.219.251.16:8626/): failed to open stream: Connection refused in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 116
+[06-Nov-2017 01:52:12 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 143
+[06-Nov-2017 01:52:12 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 148
+[06-Nov-2017 01:52:12 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 154
+[06-Nov-2017 01:57:20 America/New_York] PHP Warning:  fopen(http://...@104.219.251.16:8626/): failed to open stream: Connection refused in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 116
+[06-Nov-2017 01:57:20 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 143
+[06-Nov-2017 01:57:20 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 148
+[06-Nov-2017 01:57:20 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 154
+[06-Nov-2017 02:13:45 America/New_York] PHP Warning:  fopen(http://...@104.219.251.16:8626/): failed to open stream: Connection refused in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 116
+[06-Nov-2017 02:13:45 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 143
+[06-Nov-2017 02:13:45 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 148
+[06-Nov-2017 02:13:45 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 154
+[06-Nov-2017 02:13:46 America/New_York] PHP Warning:  fopen(http://...@104.219.251.16:8626/): failed to open stream: Connection refused in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 116
+[06-Nov-2017 02:13:46 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 143
+[06-Nov-2017 02:13:46 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 148
+[06-Nov-2017 02:13:46 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 154
+[06-Nov-2017 02:13:47 America/New_York] PHP Warning:  fopen(http://...@104.219.251.16:8626/): failed to open stream: Connection refused in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 116
+[06-Nov-2017 02:13:47 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 143
+[06-Nov-2017 02:13:47 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 148
+[06-Nov-2017 02:13:47 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 154
+[06-Nov-2017 02:13:48 America/New_York] PHP Warning:  fopen(http://...@104.219.251.16:8626/): failed to open stream: Connection refused in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 116
+[06-Nov-2017 02:13:48 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 143
+[06-Nov-2017 02:13:48 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 148
+[06-Nov-2017 02:13:48 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 154
+[06-Nov-2017 02:13:49 America/New_York] PHP Warning:  fopen(http://...@104.219.251.16:8626/): failed to open stream: Connection refused in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 116
+[06-Nov-2017 02:13:49 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 143
+[06-Nov-2017 02:13:49 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 148
+[06-Nov-2017 02:13:49 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 154
+[06-Nov-2017 02:13:55 America/New_York] PHP Warning:  fopen(http://...@104.219.251.16:8626/): failed to open stream: Connection refused in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 116
+[06-Nov-2017 02:13:55 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 143
+[06-Nov-2017 02:13:55 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 148
+[06-Nov-2017 02:13:55 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 154
+[06-Nov-2017 02:14:01 America/New_York] PHP Warning:  fopen(http://...@104.219.251.16:8626/): failed to open stream: Connection refused in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 116
+[06-Nov-2017 02:14:01 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 143
+[06-Nov-2017 02:14:01 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 148
+[06-Nov-2017 02:14:01 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 154
+[06-Nov-2017 02:14:04 America/New_York] PHP Warning:  fopen(http://...@104.219.251.16:8626/): failed to open stream: Connection refused in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 116
+[06-Nov-2017 02:14:04 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 143
+[06-Nov-2017 02:14:04 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 148
+[06-Nov-2017 02:14:04 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 154
+[06-Nov-2017 02:14:05 America/New_York] PHP Warning:  fopen(http://...@104.219.251.16:8626/): failed to open stream: Connection refused in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 116
+[06-Nov-2017 02:14:05 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 143
+[06-Nov-2017 02:14:05 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 148
+[06-Nov-2017 02:14:05 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 154
+[06-Nov-2017 02:14:57 America/New_York] PHP Warning:  fopen(http://...@104.219.251.16:8626/): failed to open stream: Connection refused in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 116
+[06-Nov-2017 02:14:57 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 143
+[06-Nov-2017 02:14:57 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 148
+[06-Nov-2017 02:14:57 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 154
+[06-Nov-2017 02:14:58 America/New_York] PHP Warning:  fopen(http://...@104.219.251.16:8626/): failed to open stream: Connection refused in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 116
+[06-Nov-2017 02:14:58 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 143
+[06-Nov-2017 02:14:58 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 148
+[06-Nov-2017 02:14:58 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 154
+[06-Nov-2017 02:16:34 America/New_York] PHP Warning:  fopen(http://...@104.219.251.16:8626/): failed to open stream: Connection refused in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 116
+[06-Nov-2017 02:16:34 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 143
+[06-Nov-2017 02:16:34 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 148
+[06-Nov-2017 02:16:34 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 154
+[06-Nov-2017 02:16:35 America/New_York] PHP Warning:  fopen(http://...@104.219.251.16:8626/): failed to open stream: Connection refused in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 116
+[06-Nov-2017 02:16:35 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 143
+[06-Nov-2017 02:16:35 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 148
+[06-Nov-2017 02:16:35 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 154
+[06-Nov-2017 02:16:38 America/New_York] PHP Warning:  fopen(http://...@104.219.251.16:8626/): failed to open stream: Connection refused in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 116
+[06-Nov-2017 02:16:38 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 143
+[06-Nov-2017 02:16:38 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 148
+[06-Nov-2017 02:16:38 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 154
+[06-Nov-2017 02:31:54 America/New_York] PHP Warning:  fopen(http://...@104.219.251.16:8626/): failed to open stream: Connection refused in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 116
+[06-Nov-2017 02:31:54 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 143
+[06-Nov-2017 02:31:54 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 148
+[06-Nov-2017 02:31:54 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 154
+[06-Nov-2017 02:49:15 America/New_York] PHP Warning:  fopen(http://...@104.219.251.16:8626/): failed to open stream: Connection refused in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 116
+[06-Nov-2017 02:49:15 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 143
+[06-Nov-2017 02:49:15 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 148
+[06-Nov-2017 02:49:15 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 154
+[06-Nov-2017 02:49:20 America/New_York] PHP Warning:  fopen(http://...@104.219.251.16:8626/): failed to open stream: Connection refused in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 116
+[06-Nov-2017 02:49:20 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 143
+[06-Nov-2017 02:49:20 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 148
+[06-Nov-2017 02:49:20 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 154
+[06-Nov-2017 02:49:21 America/New_York] PHP Warning:  fopen(http://...@104.219.251.16:8626/): failed to open stream: Connection refused in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 116
+[06-Nov-2017 02:49:21 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 143
+[06-Nov-2017 02:49:21 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 148
+[06-Nov-2017 02:49:21 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 154
+[06-Nov-2017 03:04:01 America/New_York] PHP Warning:  fopen(http://...@104.219.251.16:8626/): failed to open stream: Connection refused in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 116
+[06-Nov-2017 03:04:01 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 143
+[06-Nov-2017 03:04:01 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 148
+[06-Nov-2017 03:04:01 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 154
+[06-Nov-2017 09:32:22 America/New_York] PHP Warning:  fopen(http://...@104.219.251.16:8626/): failed to open stream: Connection refused in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 116
+[06-Nov-2017 09:32:22 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 143
+[06-Nov-2017 09:32:22 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 148
+[06-Nov-2017 09:32:22 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 154
+[06-Nov-2017 09:32:23 America/New_York] PHP Warning:  fopen(http://...@104.219.251.16:8626/): failed to open stream: Connection refused in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 116
+[06-Nov-2017 09:32:23 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 143
+[06-Nov-2017 09:32:23 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 148
+[06-Nov-2017 09:32:23 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 154
+[06-Nov-2017 09:39:58 America/New_York] PHP Warning:  fopen(http://...@104.219.251.16:8626/): failed to open stream: Connection refused in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 116
+[06-Nov-2017 09:39:58 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 143
+[06-Nov-2017 09:39:58 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 148
+[06-Nov-2017 09:39:58 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 154
+[06-Nov-2017 09:39:59 America/New_York] PHP Warning:  fopen(http://...@104.219.251.16:8626/): failed to open stream: Connection refused in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 116
+[06-Nov-2017 09:39:59 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 143
+[06-Nov-2017 09:39:59 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 148
+[06-Nov-2017 09:39:59 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 154
+[06-Nov-2017 09:40:23 America/New_York] PHP Warning:  fopen(http://...@104.219.251.16:8626/): failed to open stream: Connection refused in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 116
+[06-Nov-2017 09:40:23 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 143
+[06-Nov-2017 09:40:23 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 148
+[06-Nov-2017 09:40:23 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 154
+[06-Nov-2017 09:40:24 America/New_York] PHP Warning:  fopen(http://...@104.219.251.16:8626/): failed to open stream: Connection refused in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 116
+[06-Nov-2017 09:40:24 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 143
+[06-Nov-2017 09:40:24 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 148
+[06-Nov-2017 09:40:24 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 154
+[06-Nov-2017 09:51:44 America/New_York] PHP Warning:  fopen(http://...@104.219.251.16:8626/): failed to open stream: Connection refused in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 116
+[06-Nov-2017 09:51:44 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 143
+[06-Nov-2017 09:51:44 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 148
+[06-Nov-2017 09:51:44 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 154
+[06-Nov-2017 09:51:45 America/New_York] PHP Warning:  fopen(http://...@104.219.251.16:8626/): failed to open stream: Connection refused in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 116
+[06-Nov-2017 09:51:45 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 143
+[06-Nov-2017 09:51:45 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 148
+[06-Nov-2017 09:51:45 America/New_York] PHP Notice:  Undefined variable: response in /home/zlghquwe/public_html/wallet/jsonRPCClient.php on line 154
